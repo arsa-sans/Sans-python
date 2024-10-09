@@ -1,6 +1,7 @@
 # membuat CRUD tugas
 # created by Arsa
 # 8-10-2024
+# projek jangka panjang
 
 # var data mapel
 mapel = []
@@ -80,5 +81,3 @@ def lihat_menu():
 if __name__ == "__main__":
     while True:
         lihat_menu()
-
-
