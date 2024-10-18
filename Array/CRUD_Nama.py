@@ -1,3 +1,7 @@
+# CRUD daftar nama
+# Created by arsa
+# 18-10-2024
+
 nama_siswa = []
 
 def lihat_nama():

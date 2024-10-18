@@ -1,3 +1,7 @@
+# Menampilkan bulan dengan array
+# Created by arsa
+# 18-10-2024
+
 bulan = ['januari',
          'februari',
          'maret',

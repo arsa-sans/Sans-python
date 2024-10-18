@@ -1,3 +1,7 @@
+# Inputan nilai
+# Created by arsa
+# 18-10-2024
+
 nilai = []
 
 jumlah_nilai_siswa = int(input('\nMasukan keseluruhan jumlah data : '))
