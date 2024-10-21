@@ -35,6 +35,7 @@ def answare():
         else:
             print(f'''Kamu mati {username}! satu-satunya goa yang selamat adalah nomor {user_position}''')
             print()
+
 # konfirmasi
     def confirmation():
         if confirm == 'y' or confirm == 'Y':
