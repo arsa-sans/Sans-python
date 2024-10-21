@@ -92,6 +92,5 @@ def menu():
         exit()
     else:
         print("Pilihan tidak valid.")
-
 while True:
     menu()
