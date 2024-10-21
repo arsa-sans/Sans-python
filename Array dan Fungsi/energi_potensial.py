@@ -14,4 +14,3 @@ h = int(input('Masukan ketinggian benda : '))
 ep = m * g * h
 
 print('Energi potensialnya adalah : ', ep)
-
