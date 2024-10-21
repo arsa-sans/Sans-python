@@ -65,4 +65,3 @@ for i in matriks:
     print(i)
 print()
 print()
-
