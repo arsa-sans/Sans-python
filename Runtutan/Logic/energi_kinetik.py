@@ -7,8 +7,8 @@ print('='*30)
 print('Menghitung energi kinetik')
 print('='*30)
 
-massa = int(input('\033[35mMasukan massa : '))
-v = int(input('\033[35mMasukan kecepatan : '))
+massa = int(input('Masukan massa : '))
+v = int(input('Masukan kecepatan : '))
 
 ek = lambda massa, v : 1/2 * massa * v * v
 
