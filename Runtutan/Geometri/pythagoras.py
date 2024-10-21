@@ -1,6 +1,6 @@
 # rumus pythagoras
 # created by Arsa
-# 5-10-2024
+# 21-10-2024
 
 print('\n')
 print('='*30)
