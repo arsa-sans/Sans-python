@@ -1,8 +1,8 @@
-import time
-
 # Menghitung detik
 # created by Arsa
 # 8-10-2024
+
+import time
 
 print('\n')
 print('='*30)
