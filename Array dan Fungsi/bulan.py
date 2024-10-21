@@ -25,4 +25,3 @@ i = 1
 for j in bulan:
     print('Bulan ke', i, j)
     i = i+1
-
