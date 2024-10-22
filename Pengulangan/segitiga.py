@@ -1,10 +1,10 @@
-# kumpulan soal looping
+# kumpulan segitiga
 # created by Arsa
 # 5-10-2024
 
 print('\n')
 print('='*30)
-print('Kumpulan soal looping')
+print('Kumpulan segitiga')
 print('='*30)
 print('\n')
 
@@ -19,7 +19,6 @@ print('\n')
 #     print(i)
 # # iterasi
 #     i = i + 1
-
 BARIS = 5
 for a in range(BARIS):
     for b in range(BARIS-a):
@@ -111,42 +110,3 @@ for i in range(jumlah_baris - 1, 0, -1):
     for j in range(2 * i - 1):
         print("*", end="")
     print()
-
-angka = 1
-while angka < 6:
-    print(angka)
-    angka = angka + 1
-print('------+')
-print(15)
-
-print('\n')
-
-angka = 1
-while angka < 6:
-    print(angka, end=' ')
-    angka = angka + 1
-print('= 15')
-
-angka = 3
-print(1, end='')
-while angka < 6:
-    print(' +', angka, end='')
-    angka = angka + 2
-print(' = 9')
-
-angka = 4
-print(2, end='')
-while angka < 11:
-    print(' +', angka, end='')
-    angka = angka + 2
-print(' = 30')
-
-angka = 2
-print(1, end='')
-while angka < 6:
-    print(' +', angka, end='')
-    angka = angka + 1
-print(' = 15')
-
-
-
