@@ -10,4 +10,4 @@ print('='*30)
 a = int(input('Masukan angka pertama : '))
 b = int(input('Masukan angka kedua : '))
 
-print(f'{a} > {b}') if a > b else a == b and print(f'{a} = {b}') or print(f'{a} < {b}')
+print(f'{a} > {b}') if a > b else print(f'{a} = {b}') if a == b else print(f'{a} < {b}')
