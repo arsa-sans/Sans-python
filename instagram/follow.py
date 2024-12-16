@@ -1,7 +1,7 @@
 import json
 
 #followers
-f = open("followers_1.json")
+f = open("instagram/followers_1.json")
  
 data = json.load(f)
 
@@ -12,7 +12,7 @@ for a in data:
         follower.append(b["value"])
 
 # following
-f = open("following.json")
+f = open("instagram/following.json")
 
 data = json.load(f)
 
