@@ -11,6 +11,7 @@ a = int(input('Masukan sudut a : '))
 b = int(input('Masukan sudut b : '))
 
 c = a**2 + b**2
+akar = c ** 0.5
 
-print('\nKemiringan adalah : ', c)
+print('\nKemiringan adalah : ', akar)
 print()
